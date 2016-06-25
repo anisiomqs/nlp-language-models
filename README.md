@@ -1,6 +1,6 @@
 # NLP Course - Language Models
 
-This repository contains the language models implementations:
+This repository contains the following language model implementations:
 
  * Laplace Smoothing for Unigrams (`python/LaplaceUnigramLanguageModel.py`)
  * Laplace Smoothing for Bigrams (`python/LaplaceBigramLanguageModel.py`)
