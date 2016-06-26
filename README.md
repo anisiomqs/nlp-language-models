@@ -12,4 +12,10 @@ The assignment aims to evaluate a spell correction system, but the student's job
 
 I had a hard time with the Kneser-ney algorithm, and tried to write the respective mathematical formulas nearby the relevant lines.
 
+Run the spell checker and get the score with the command (file provided with the assignment):
+
+```
+python SpellCorrect.py
+```
+
 If you find some error or have any suggestion, please let me know.
